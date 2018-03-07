@@ -46,8 +46,6 @@ while not crashed:
                 car.move_down()
                 display_car()
 
-
-
     gameDisplay.fill(colors['white'])
     display_car()
 
